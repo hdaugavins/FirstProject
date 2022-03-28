@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>🐶 Adopt Today!</title>
+    <style>
+
+body {background: linear-gradient(219deg, rgb(7, 153, 139) 0%, rgb(248, 249, 252) 81%);
+}
+
+        h1 {background-color:#c9fdd7;
+            font-size: 48px;
+            opacity: .8;
+        text-align:center;
+    padding:5px 2px;
+    margin: 0 auto;
+border: 5px solid #155263;
+border-radius: 40px;
+font-family: "papyrus";
+}
+    h2 {background-color: #79d1c3;
+        font-size: 18px;
+    text-align:center;
+    padding:5px;
+    margin: 20px auto;
+border: 5px solid #005792;
+border-radius: 40px;
+font-family: "papyrus";}
+
+    .paragraph {background-color:#6892d5;
+        font-size: 20px;
+    text-align:center;
+    padding:20px;
+    margin: 0 auto;
+border:5px solid #155263;
+border-radius: 40px;
+font-family: "papyrus";}
+
+    .dogs {list-style: none;
+font-family: "papyrus";}
+
+li {float:left;}
+
+
+.chase {display:block;
+text-align:center;
+padding: 20px;
+background-color: #79d1c3;
+border: 2px solid #155263;
+border-radius: 50px;
+margin: 50px;}
+
+.chase2 {text-align:center;
+font-size: 48px;
+font-weight: bolder;
+font-family: "papyrus";}
+
+.chaseImage {display:block;
+padding: 0;
+margin: 0 auto;
+text-align:center;
+border: 2px solid #155263;
+border-radius: 60px;}
+
+.chaseButton {
+  padding: 15px 20px;
+  color: white;
+  background:#155263;
+  display: block;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 40px;
+  margin: 30px auto;
+  border: 1px solid #79d1c3;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  Transition: all 200ms linear; 
+}
+
+.chaseButton:hover{
+    background-color: white;
+	Color: #155263;
+    cursor: pointer;
+}
+
+.clark {display:block;
+text-align:center;
+padding: 20px;
+background-color: #79d1c3;
+border: 2px solid #155263;
+border-radius: 50px;
+margin: 50px;
+}
+
+.clark2 {text-align:center;
+font-size: 48px;
+font-weight: bolder;
+font-family: "papyrus";}
+
+.clarkImage {display:block;
+padding: 0;
+margin: 0 auto;
+text-align:center;
+border: 2px solid #155263;
+border-radius: 60px;}
+
+.clarkButton {
+ padding: 15px 20px;
+  color: white;
+  background:#155263;
+  display: block;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 40px;
+  margin: 30px auto;
+  border: 1px solid #79d1c3;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  Transition: all 200ms linear; 
+}
+
+.clarkButton:hover{
+    background-color: white;
+	Color: #155263;
+    cursor: pointer;
+}
+
+.catrina {display:block;
+text-align:center;
+padding: 20px;
+background-color: #79d1c3;
+border: 2px solid #155263;
+border-radius: 50px;
+margin: 50px;}
+
+.catrina2 {text-align:center;
+font-size: 48px;
+font-weight: bolder;
+font-family: "papyrus";}
+
+.catrinaImage {display:block;
+padding: 0;
+margin: 0 auto;
+text-align:center;
+border: 2px solid #155263;
+border-radius: 60px;}
+
+.catrinaButton {
+   padding: 15px 20px;
+  color: white;
+  background:#155263;
+  display: block;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 40px;
+  margin: 30px auto;
+  border: 1px solid #79d1c3;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  transition: all 200ms linear;
+}
+
+.catrinaButton:hover{
+    background-color: white;
+	Color: #155263;
+    cursor: pointer;
+}
+
+.topReasons {text-align:center;
+font-style: "papyrus";
+font-size: 32px;}
+
+footer {text-align:center;
+margin: 50px auto;
+padding: 50px;}
+
+    </style>
+  </head>
+  <body>
+    <h1>🐾 Adopt a Dog Today! 🐾</h1>
+    <hr>
+    <h2>
+      <div class="topReasons">Top Reasons to Adopt:</div>
+      🐶 </br>
+      Each year, it's estimated that more than one million adoptable dogs and cats are euthanized in the United States, simply because too many pets come into shelters and too few people consider adoption when looking for a pet. </br>
+    🐶 </br>
+    Animal shelters and rescue groups are brimming with happy, healthy pets just waiting for someone to take them home. Most shelter pets wound up there because of a human problem like a move or a divorce, not because the animals did anything wrong. Many are already house-trained and used to living with families.</br>
+    🐶</br>
+    Usually when you adopt a pet, the cost of spay/neuter, first vaccinations (and sometimes even microchipping!) is included in the adoption price, which can save you some of the up front costs of adding a new member to your family. Depending on the animal, you may also save on housebreaking and training expenses.</br>
+    </br>
+Learn more from the <a href="https://www.humanesociety.org/resources/top-reasons-adopt-pet#:~:text=Because%20you'll%20save%20a%20life.&text=The%20number%20of%20euthanized%20animals,who%20might%20desperately%20need%20it." target="_blank">Humane Society</a>   
+
+</h2>
+<hr>
+    <p class="paragraph">Below are some local pups that are available now from <a href = "http://homewardbounddogrescue.com/pets.php" target="_blank">
+    Homeward Bound Dog Rescue.</a></p>
+    <ul class="dogs">
+        <li class="chase">
+            <div class="chase2">Chase</div>
+            <img class ="chaseImage" src="https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52000033/4/?bust=1624998455&width=720" width="300" height="300" alt="Chase Photo"/></br>
+            Labrador Retriever, Pit Bull Terrier </br>
+            Large, Adult </br>
+            <strong>Albany, NY</strong></br>
+            <button class="chaseButton">Request More Info on Chase!</button>
+        </li>
+        <li class ="clark">
+            <div class="clark2">Clark</div>
+            <img class="clarkImage" src="https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54945425/1/?bust=1647036191&width=1080" width="300" height="300" alt ="Clark Photo" /></br>
+            Labrador Retriever, Terrier </br>
+            Large, Puppy </br>
+           <strong>Albany, NY</strong></br>
+            <button class="clarkButton">Request More Info on Clark!</button>
+        </li>
+        <li class="catrina">
+<div class="catrina2">Catrina</div>
+<img class="catrinaImage" src="https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/54087616/2/?bust=1644972224&width=720" width="300" height="300" alt="Catrina Photo"/></br>
+Cattle Dog </br>
+Medium, Puppy </br>
+<strong>Albany, NY</strong></br>
+<button class="catrinaButton">Request More Info on Catrina!</button>
+</li>
+
+<footer>This page was built by <em>Hillary Hastings</em><br>
+    <span><a href="https://github.com/hdaugavins" target="_blank"> 👩🏼‍💻 GitHub </a></span><span><a href="https://www.instagram.com/hdaugavins/" target="_blank"> 📸 Instagram</a></span>
+</footer>
+    <script>
+        function informationRequest(){
+            let yourName = prompt("What is your name?");
+            let yourAge = prompt ("How old are you?");
+let requestInfo = prompt("What is your email?");
+if (yourAge >=18)
+alert ("Thank you, " + yourName + "!, we'll be in touch! 🐾");
+else {alert ("Sorry," + yourName + ", you are not old enough to adopt 😞")}
+        }
+
+        let infoButton = document.querySelector(".chaseButton");
+        let infoButton2 = document.querySelector(".clarkButton");
+        let infoButton3 = document.querySelector (".catrinaButton");
+
+        infoButton.addEventListener("click", informationRequest);
+        infoButton2.addEventListener("click", informationRequest);
+        infoButton3.addEventListener("click", informationRequest);
+      
+        
+
+    </script>
+  </body>
+</html>
